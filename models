@@ -1,0 +1,11 @@
+TRAINING THE PREDICTION MODEL
+The first step in creating a model is to extract the required features for training from the dataset and assigning the parameter that is to be the class label.
+Predictive Models used
+1.Random Forest
+2.Naive Bayes
+3.KNN
+4.SVM
+
+
+ 
+
